@@ -1,11 +1,12 @@
 {
-  "name": "type-utils",
-  "version": "1.0.0",
+  "name": "@10dimen/type-utils",
+  "version": "1.0.2",
   "description": "A comprehensive utility package for type checking and validation. Easily determine data types and check for non-empty values with a single, lightweight library.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dikmenonur/type-utils.git"
