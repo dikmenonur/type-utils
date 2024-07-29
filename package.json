@@ -1,0 +1,25 @@
+{
+  "name": "type-utils",
+  "version": "1.0.0",
+  "description": "A comprehensive utility package for type checking and validation. Easily determine data types and check for non-empty values with a single, lightweight library.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikmenonur/type-utils.git"
+  },
+  "keywords": [
+    "utility",
+    "type-check",
+    "validation",
+    "not-empty"
+  ],
+  "author": "Onur Dikmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikmenonur/type-utils/issues"
+  },
+  "homepage": "https://github.com/dikmenonur/type-utils#readme"
+}
