@@ -1,6 +1,6 @@
 {
   "name": "@10dimen/type-utils",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A comprehensive utility package for type checking and validation. Easily determine data types and check for non-empty values with a single, lightweight library.",
   "main": "src/index.js",
   "scripts": {

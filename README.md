@@ -13,4 +13,4 @@
 Install the package via npm:
 
 ```bash
-npm install type-utils
+npm install @10dimen/type-utils
